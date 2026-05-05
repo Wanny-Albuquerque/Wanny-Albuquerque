@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="right">
+  <img src="https://flagcdn.com/w20/br.png" />
+  <img src="https://flagcdn.com/w20/us.png" />
+</p>
 
-<!--
-**Wanny-Albuquerque/Wanny-Albuquerque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Meu nome é Wanny Albuquerque.  
 
-Here are some ideas to get you started:
+Sou desenvolvedora backend em formação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,java,mysql,python" height="40"/>
+</p>
+
+---
+
+## 📫 Contato
+
+- LinkedIn: www.linkedin.com/in/wanny-albuquerque-2619261b6
